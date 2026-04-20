@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-test03.txt user3 수정중
-=======
-test03.txt user4 수정중
->>>>>>> 5c3ec9b95af63b9b82343918b979ab20792c96e3
+test03.txt user3 최종수정
+
